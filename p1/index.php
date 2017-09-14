@@ -9,7 +9,7 @@
 	<div class="header">
 		<div class="logo">
 		<img src="domek.jpg" style="float: left; padding:5px;">
-			<span style="color: #c34f4f;">dom</span>ekczki.com
+			<span style="color: #c34f4f;">las</span>eczki.com
 		</div>	
 		<div style="clear:both;"></div>
 	</div>
@@ -42,6 +42,9 @@
 				</ul>
 			</li>
 			<li> <a href="#">Opcja 4</a></li>
+					<li><a href="#"> Pod-opcja1</a></li>	
+					<li><a href="#"> Pod-opcja2</a></li>	
+					
 			<li> <a href="#">Opcja 5</a></li>
 		</ol>
 	</div>
