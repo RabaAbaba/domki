@@ -9,7 +9,7 @@
 	<div class="header">
 		<div class="logo">
 		<img src="domek.jpg" style="float: left; padding:5px;">
-			<span style="color: #c34f4f;">las</span>eczki.com
+			<span style="color: #c34f4f;">DUP</span>eczki.com
 		</div>	
 		<div style="clear:both;"></div>
 	</div>
