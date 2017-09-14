@@ -1,0 +1,141 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	margin:0 !important;
+}
+.wrapper{
+	width: 100%;
+}
+.header{
+	width: 100%;
+	padding: 40px 0;
+}
+.logo{
+	width: 480px;
+	font-size: 48px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.nav{
+	width: 100%;
+	padding: 10px 0;
+	background-color: #c34f4f;
+	border-top: 1px solid #751b1b;
+	border-bottom: 1px solid #751b1b;
+	text-align: center;
+}
+.content{
+	margin-top: 10px;
+	width:1000px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.socials{
+	background-color: #292929
+	width:100%;
+	text-align: center;
+}
+.socialdives{
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.fb{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.fb:hover{
+	background-color: #4668b3;
+}
+.yt{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.yt:hover{
+	background-color: #d14c42;
+}
+.tw{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.tw:hover{
+	background-color: #677ad5;
+}
+.gp{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+.gp:hover{
+	background-color: #d95333;
+}
+.footer{
+	background-color: #222222;
+	text-align:center;
+	padding: 30px;
+}
+.sticky{
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+}
+ol{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-size: 18px;
+	height: 35px;
+	line-height: 200%;
+	display: inline-block;
+}
+ol a{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+}
+ol > li{
+	float: left;
+	width: 150px;
+	height: 40px;
+	border-right: 1px dashed #751b1b;
+}
+ol > li:first-child{
+	border-left:  1px dashed #751b1b;
+}
+ol > li:hover{
+ background-color:  #cf6969;
+ }
+ ol > li:hover > a{
+ 	color:#451717;
+ }
+ ol > li > ul{
+ 	list-style-type: none;
+ 	padding: 0;
+ 	margin: 0;
+ 	height: 40px;
+ 	display: none;
+ }
+ ol > li > ul > li{
+ 	background-color: #cf6969;
+ 	position: relative;
+ 	z-index: 100;
+ 	border-top: 1px dashed #751b1b;
+ }
+ ol > li > ul > li:hover{
+ 	background-color: #cf4f34;
+ }
+ ol > li > ul > li:hover > a{
+ 	color: #451717;
+  
+ }
+ol > li:hover > ul{
+ background-color:  #cf6969;
+ display: block;
+ }
