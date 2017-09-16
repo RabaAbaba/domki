@@ -1,0 +1,204 @@
+body{
+	background-image: url("tlo.jpg");
+	color: #ffffff;
+	font-family: 'Mukta Mahee', sans-serif;
+	font-size: 20px;
+	
+}
+#container{
+	width:1200px;
+	height: 910px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:blue;
+	color: #ffffff;
+	text-align:center;
+}
+.rectanlge1{
+	height:110px;
+	width:1200px;
+	background-color: grey;
+	text-align:center;
+	
+}
+.rectanlge2{
+	height:140px;
+	width:1200px;
+	background-color: grey;
+	text-align:center;
+	
+}
+
+.square{
+	float: left;
+	height:620px;
+	width:600px;
+	background-color: #303030;
+}
+	
+#footer{
+	clear: both;
+	background-color: black;
+	height: 50px;
+	color:White;
+	font-size: 40px;
+	
+}
+#logo{
+	margin-bottom:10px;
+	margin-top:10px;
+	text-align:center;
+	width:600px;
+	height:90px;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size:70px;
+	color: #008080;
+	float:left;
+}
+#zegar{
+	
+	margin-bottom:10px;
+	margin-top:10px;
+	width:350px;
+	height:90px;
+	text-align:right;
+	background-color: grey;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 70px;
+	float:left;
+}
+#ico-zegar{
+	color: #2D0B00;
+	margin-bottom:10px;
+	float:left;
+	width:250px;
+	height:90px;
+	text-align:left;
+	background-color: grey;
+	
+}
+.tile1{
+	margin: 10px;
+	width: 280px;
+	height: 186px;
+	background-color: #3095d3;
+	float: left;
+	font-size: 27px;
+	text-align:center;
+}
+.tile1:hover{
+	background-color: #1073b1;
+}
+
+.tile2{
+	margin: 10px;
+	width: 280px;
+	height: 186px;
+	background-color: #747676;
+	float: left;
+	font-size: 27px;
+}
+.tile2:hover{
+	background-color: #636565;
+}
+.tile3{
+	margin: 10px;
+	width: 280px;
+	height: 186px;
+	background-color: #93c748;
+	float: left;
+	font-size: 27px;
+}
+.tile3:hover{
+	background-color: #71a526;
+}
+.tile4{
+	margin: 10px;
+	width: 580px;
+	height: 186px;
+	background-color:#FE7B0F;
+	font-size: 27px;
+}
+.tile5{
+	margin: 10px;
+	width: 580px;
+	height: 392px;
+	background-color:#666666;
+	font-size: 27px;
+}
+
+.yt{
+	margin: 10px;
+	width: 130px;
+	height: 186px;
+	background-color:#FE1C0F;
+	float:left;
+}
+.yt:hover{
+	background-color: #DC0A0D;
+}
+.fb{
+	margin: 10px;
+	width: 130px;
+	height: 186px;
+	background-color:#0F66FD;
+	float:left;
+}
+.fb:hover{
+	background-color: #0D44DB;
+}
+.gplus{
+	margin: 10px;
+	width: 130px;
+	height: 186px;
+	background-color:#d95333;
+	float:left;
+}
+.gplus:hover{
+	background-color: #b73111;
+}
+.twitter{
+	margin: 10px;
+	width: 130px;
+	height: 186px;
+	background-color:#3265d8;
+	float:left;	
+}
+.twitter:hover{
+	background-color: #1043b6;
+}
+.inner1{
+	text-align:center; 
+	float:left;
+	font-size:20px;
+	width:260px;
+	margin:4px;
+	
+}
+.foto{
+	text-align:left; 
+	float:left;
+	width:312px;
+}
+#nav{
+	height:30px;
+	width:1200px;
+	border-top-style: dotted;
+	background-color: #808080;
+	text-align:center;
+}
+.panel{
+	height:30px;
+	width:240px;
+	border-right-style: dotted;
+	float: left;
+}
+.panel:hover {
+	background-color: #707070;
+	cursor: pointer;
+}
+#menu-content{
+	width:1200px;
+	height:620px;
+	background-color: green;
+}
