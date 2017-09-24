@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="style.css" type="text/css">
 	<link rel="stylesheet" href="css/fontello.css" type="text/css">
+	<link rel="stylesheet" href="fontello2/css/fontello.css" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Baloo+Bhaijaan" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Mukta+Mahee" rel="stylesheet">
 
