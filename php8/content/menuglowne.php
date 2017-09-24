@@ -18,7 +18,7 @@
 
 			<div class="tile3" data-content="mojchlopak">		
 			<i class="icon-heart-filled"></i>
-			<br />CHl		
+			<br />Chlopak		
 			</div>
 			
 			<div style="clear:both;"></div>
