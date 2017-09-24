@@ -16,7 +16,7 @@
 <div id="container">
 	<div class="rectanlge1">
 		<div id="logo" >
-			Kamila Kaczmarek
+			Kamila Rosinska
 		</div>
 			<div id="zegar" >
 			12:00:00
