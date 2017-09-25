@@ -28,6 +28,9 @@ if($CONTENT == "YouTube"){
 } else if($CONTENT == "menuglowne"){	
 	require_once('content/'.$CONTENT.'.php');
 
+} else if($CONTENT == "galeria"){	
+	require_once('content/'.$CONTENT.'.php');
+
 }	else if($CONTENT == "kontakt"){	
 	require_once('content/'.$CONTENT.'.php');
 

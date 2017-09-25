@@ -52,7 +52,7 @@ body{
 	height:90px;
 	font-family: 'Baloo Bhaijaan', cursive;
 	font-size:70px;
-	color: #008080;
+	color: #df23c2;
 	float:left;
 }
 #zegar{
@@ -228,3 +228,10 @@ body{
 	float: right;
 	text-align: unset;
 	}
+.photo-window-left{
+	background-color: #942B0D;
+	width:1200px;
+	height: 205px;
+	border-bottom-style: dotted;
+	border-bottom-color: #A64D2D;
+}
