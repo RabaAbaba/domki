@@ -1,0 +1,1 @@
+Do mnie kontaktow jest wiele, ale wszystkie zna jedynie moj chlopak.
